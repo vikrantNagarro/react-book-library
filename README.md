@@ -30,8 +30,8 @@ A personal library manager built using **React**, **Redux Toolkit**, and **Boots
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/book-library-app.git
-   cd book-library-app
+   git clone https://github.com/vikrantNagarro/react-book-library.git
+   cd book-library-application
    ```
 
 2. **Install dependencies**
@@ -68,6 +68,7 @@ src/
 │   ├── BookForm.js
 │   ├── BookList.js
 │   └── Filter.js
+│   └── Modal.css
 ├── Redux/
 │   ├── booksSlice.js
 │   └── store.js
@@ -78,7 +79,7 @@ src/
 
 ## 👨Author
 
-Developed by [**Vikrant Khajuria**](https://github.com/your-username)
+Developed by [**Vikrant Khajuria**](https://github.com/vikrantNagarro)
 
 ---
 
